@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_15">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/axis2-adb-codegen-1.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/axis2-codegen-1.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/axis2-java2wsdl-1.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/wstx-asl-3.2.9.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/axiom-api-1.2.13.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/axiom-impl-1.2.13.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/axis2-adb-1.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/axis2-kernel-1.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/axis2-transport-http-1.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/axis2-transport-local-1.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/httpcore-4.0.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/neethi-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/wsdl4j-1.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/android3/webservice客户端主要jar包/webservice客户端核心包/XmlSchema-1.4.7.jar"/>
+	<classpathentry kind="lib" path="E:/spring-tool-suite-3.1.0.RELEASE-e3.8-win32/springsource/apache-maven-3.0.4/jar/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="E:/spring-tool-suite-3.1.0.RELEASE-e3.8-win32/springsource/apache-maven-3.0.4/jar/commons-lang/commons-lang/2.6/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/spring-tool-suite-3.1.0.RELEASE-e3.8-win32/springsource/apache-maven-3.0.4/jar/commons-beanutils/commons-beanutils/1.8.2/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="E:/spring-tool-suite-3.1.0.RELEASE-e3.8-win32/springsource/apache-maven-3.0.4/jar/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/spring-tool-suite-3.1.0.RELEASE-e3.8-win32/springsource/apache-maven-3.0.4/jar/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/spring-tool-suite-3.1.0.RELEASE-e3.8-win32/springsource/apache-maven-3.0.4/jar/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
